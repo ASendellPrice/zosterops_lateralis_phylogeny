@@ -161,4 +161,4 @@ MOO46	Moorea	/data/zool-zost/Novogene/Moorea/MOO46/MOO46.sorted.bam
 MOO53	Moorea	/data/zool-zost/Novogene/Moorea/MOO53/MOO53.sorted.bam	
 MOO56	Moorea	/data/zool-zost/Novogene/Moorea/MOO56/MOO56.sorted.bam	
 MOO7	Moorea	/data/zool-zost/Novogene/Moorea/MOO7/MOO7.sorted.bam	
-15-179	Zbor	/data/zool-zost/Novogene/Outgroup/full_15-179.sort.bam	
+15179	Zbor	/data/zool-zost/Novogene/Outgroup/full_15-179.sort.bam	
