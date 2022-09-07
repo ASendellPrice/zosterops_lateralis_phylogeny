@@ -1,164 +1,315 @@
-CI10	ChathamIsland	/data/zool-zost/Novogene/ChathamIsland/CI10/CI10.sorted.bam
-CI11	ChathamIsland	/data/zool-zost/Novogene/ChathamIsland/CI11/CI11.sorted.bam
-CI12	ChathamIsland	/data/zool-zost/Novogene/ChathamIsland/CI12/CI12.sorted.bam
-CI13	ChathamIsland	/data/zool-zost/Novogene/ChathamIsland/CI13/CI13.sorted.bam
-CI14	ChathamIsland	/data/zool-zost/Novogene/ChathamIsland/CI14/CI14.sorted.bam
-CI16	ChathamIsland	/data/zool-zost/Novogene/ChathamIsland/CI16/CI16.sorted.bam
-CI17	ChathamIsland	/data/zool-zost/Novogene/ChathamIsland/CI17/CI17.sorted.bam
-CI18	ChathamIsland	/data/zool-zost/Novogene/ChathamIsland/CI18/CI18.sorted.bam
-CI19	ChathamIsland	/data/zool-zost/Novogene/ChathamIsland/CI19/CI19.sorted.bam
-CI1	ChathamIsland	/data/zool-zost/Novogene/ChathamIsland/CI1/CI1.sorted.bam
-CI20	ChathamIsland	/data/zool-zost/Novogene/ChathamIsland/CI20/CI20.sorted.bam
-CI21	ChathamIsland	/data/zool-zost/Novogene/ChathamIsland/CI21/CI21.sorted.bam
-CI2	ChathamIsland	/data/zool-zost/Novogene/ChathamIsland/CI2/CI2.sorted.bam
-CI5	ChathamIsland	/data/zool-zost/Novogene/ChathamIsland/CI5/CI5.sorted.bam
-CI7	ChathamIsland	/data/zool-zost/Novogene/ChathamIsland/CI7/CI7.sorted.bam
-CI9	ChathamIsland	/data/zool-zost/Novogene/ChathamIsland/CI9/CI9.sorted.bam
-ABP151	Efate	/data/zool-zost/Novogene/Efate/ABP151/ABP151.sorted.bam
-ABP152	Efate	/data/zool-zost/Novogene/Efate/ABP152/ABP152.sorted.bam
-ABP154	Efate	/data/zool-zost/Novogene/Efate/ABP154/ABP154.sorted.bam
-ABP155	Efate	/data/zool-zost/Novogene/Efate/ABP155/ABP155.sorted.bam
-ABP156	Efate	/data/zool-zost/Novogene/Efate/ABP156/ABP156.sorted.bam
-ABP157	Efate	/data/zool-zost/Novogene/Efate/ABP157/ABP157.sorted.bam
-ABP158	Efate	/data/zool-zost/Novogene/Efate/ABP158/ABP158.sorted.bam
-ABP159	Efate	/data/zool-zost/Novogene/Efate/ABP159/ABP159.sorted.bam
-ABP160	Efate	/data/zool-zost/Novogene/Efate/ABP160/ABP160.sorted.bam
-ABP162	Efate	/data/zool-zost/Novogene/Efate/ABP162/ABP162.sorted.bam
-ABP167	Efate	/data/zool-zost/Novogene/Efate/ABP167/ABP167.sorted.bam
-ABP169	Efate	/data/zool-zost/Novogene/Efate/ABP169/ABP169.sorted.bam
-ABP171	Efate	/data/zool-zost/Novogene/Efate/ABP171/ABP171.sorted.bam
-EF28	Efate	/data/zool-zost/Novogene/Efate/EF28/EF28.sorted.bam
-EF31	Efate	/data/zool-zost/Novogene/Efate/EF31/EF31.sorted.bam
-EF37	Efate	/data/zool-zost/Novogene/Efate/EF37/EF37.sorted.bam
-EF38	Efate	/data/zool-zost/Novogene/Efate/EF38/EF38.sorted.bam
-EF42	Efate	/data/zool-zost/Novogene/Efate/EF42/EF42.sorted.bam
-EF43	Efate	/data/zool-zost/Novogene/Efate/EF43/EF43.sorted.bam
-EF44	Efate	/data/zool-zost/Novogene/Efate/EF44/EF44.sorted.bam
-SAN11	EspirutuSanto	/data/zool-zost/Novogene/EspirutuSanto/SAN11/SAN11.sorted.bam
-SAN12	EspirutuSanto	/data/zool-zost/Novogene/EspirutuSanto/SAN12/SAN12.sorted.bam
-SAN16	EspirutuSanto	/data/zool-zost/Novogene/EspirutuSanto/SAN16/SAN16.sorted.bam
-SAN17	EspirutuSanto	/data/zool-zost/Novogene/EspirutuSanto/SAN17/SAN17.sorted.bam
-SAN18	EspirutuSanto	/data/zool-zost/Novogene/EspirutuSanto/SAN18/SAN18.sorted.bam
-SAN2	EspirutuSanto	/data/zool-zost/Novogene/EspirutuSanto/SAN2/SAN2.sorted.bam
-SAN42	EspirutuSanto	/data/zool-zost/Novogene/EspirutuSanto/SAN42/SAN42.sorted.bam
-SAN47	EspirutuSanto	/data/zool-zost/Novogene/EspirutuSanto/SAN47/SAN47.sorted.bam
-SAN49	EspirutuSanto	/data/zool-zost/Novogene/EspirutuSanto/SAN49/SAN49.sorted.bam
-SAN52	EspirutuSanto	/data/zool-zost/Novogene/EspirutuSanto/SAN52/SAN52.sorted.bam
-SAN55	EspirutuSanto	/data/zool-zost/Novogene/EspirutuSanto/SAN55/SAN55.sorted.bam
-SAN57	EspirutuSanto	/data/zool-zost/Novogene/EspirutuSanto/SAN57/SAN57.sorted.bam
-SAN64	EspirutuSanto	/data/zool-zost/Novogene/EspirutuSanto/SAN64/SAN64.sorted.bam
-SAN70	EspirutuSanto	/data/zool-zost/Novogene/EspirutuSanto/SAN70/SAN70.sorted.bam
-SAN74	EspirutuSanto	/data/zool-zost/Novogene/EspirutuSanto/SAN74/SAN74.sorted.bam
-SAN76	EspirutuSanto	/data/zool-zost/Novogene/EspirutuSanto/SAN76/SAN76.sorted.bam
-SAN7	EspirutuSanto	/data/zool-zost/Novogene/EspirutuSanto/SAN7/SAN7.sorted.bam
-SAN85	EspirutuSanto	/data/zool-zost/Novogene/EspirutuSanto/SAN85/SAN85.sorted.bam
-SAN88	EspirutuSanto	/data/zool-zost/Novogene/EspirutuSanto/SAN88/SAN88.sorted.bam
-SAN9	EspirutuSanto	/data/zool-zost/Novogene/EspirutuSanto/SAN9/SAN9.sorted.bam
-ABP251	Gaua	/data/zool-zost/Novogene/Gaua/ABP251/ABP251.sorted.bam
-ABP257	Gaua	/data/zool-zost/Novogene/Gaua/ABP257/ABP257.sorted.bam
-ABP261	Gaua	/data/zool-zost/Novogene/Gaua/ABP261/ABP261.sorted.bam
-ABP263	Gaua	/data/zool-zost/Novogene/Gaua/ABP263/ABP263.sorted.bam
-ABP264	Gaua	/data/zool-zost/Novogene/Gaua/ABP264/ABP264.sorted.bam
-ABP265	Gaua	/data/zool-zost/Novogene/Gaua/ABP265/ABP265.sorted.bam
-ABP266	Gaua	/data/zool-zost/Novogene/Gaua/ABP266/ABP266.sorted.bam
-ABP267	Gaua	/data/zool-zost/Novogene/Gaua/ABP267/ABP267.sorted.bam
-ABP281	Gaua	/data/zool-zost/Novogene/Gaua/ABP281/ABP281.sorted.bam
-ABP283	Gaua	/data/zool-zost/Novogene/Gaua/ABP283/ABP283.sorted.bam
-ABP284	Gaua	/data/zool-zost/Novogene/Gaua/ABP284/ABP284.sorted.bam
-ABP295	Gaua	/data/zool-zost/Novogene/Gaua/ABP295/ABP295.sorted.bam
-ABP299	Gaua	/data/zool-zost/Novogene/Gaua/ABP299/ABP299.sorted.bam
-ABP300	Gaua	/data/zool-zost/Novogene/Gaua/ABP300/ABP300.sorted.bam
-GT224	GrandTerre	/data/zool-zost/Novogene/GrandeTerre/GT224/GT224.sorted.bam
-GT239	GrandTerre	/data/zool-zost/Novogene/GrandeTerre/GT239/GT239.sorted.bam
-GTN018	GrandTerre	/data/zool-zost/Novogene/GrandeTerre/GTN018/GTN018.sorted.bam
-GTN024	GrandTerre	/data/zool-zost/Novogene/GrandeTerre/GTN024/GTN024.sorted.bam
-GTN028	GrandTerre	/data/zool-zost/Novogene/GrandeTerre/GTN028/GTN028.sorted.bam
-GTN029	GrandTerre	/data/zool-zost/Novogene/GrandeTerre/GTN029/GTN029.sorted.bam
-GTN043	GrandTerre	/data/zool-zost/Novogene/GrandeTerre/GTN043/GTN043.sorted.bam
-GTN093	GrandTerre	/data/zool-zost/Novogene/GrandeTerre/GTN093/GTN093.sorted.bam
-GTN094	GrandTerre	/data/zool-zost/Novogene/GrandeTerre/GTN094/GTN094.sorted.bam
-GTN095	GrandTerre	/data/zool-zost/Novogene/GrandeTerre/GTN095/GTN095.sorted.bam
-GTN101	GrandTerre	/data/zool-zost/Novogene/GrandeTerre/GTN101/GTN101.sorted.bam
-GTN102	GrandTerre	/data/zool-zost/Novogene/GrandeTerre/GTN102/GTN102.sorted.bam
-GTN104	GrandTerre	/data/zool-zost/Novogene/GrandeTerre/GTN104/GTN104.sorted.bam
-GTN105	GrandTerre	/data/zool-zost/Novogene/GrandeTerre/GTN105/GTN105.sorted.bam
-GTN106	GrandTerre	/data/zool-zost/Novogene/GrandeTerre/GTN106/GTN106.sorted.bam
-GTN108	GrandTerre	/data/zool-zost/Novogene/GrandeTerre/GTN108/GTN108.sorted.bam
-GTN109	GrandTerre	/data/zool-zost/Novogene/GrandeTerre/GTN109/GTN109.sorted.bam
-GTN110	GrandTerre	/data/zool-zost/Novogene/GrandeTerre/GTN110/GTN110.sorted.bam
-GTN211	GrandTerre	/data/zool-zost/Novogene/GrandeTerre/GTN211/GTN211.sorted.bam
-S019	GrandTerre	/data/zool-zost/Novogene/GrandeTerre/S019/S019.sorted.bam
-S020	GrandTerre	/data/zool-zost/Novogene/GrandeTerre/S020/S020.sorted.bam
-S036	GrandTerre	/data/zool-zost/Novogene/GrandeTerre/S036/S036.sorted.bam
-HUA2	Huahine	/data/zool-zost/Novogene/Huahine/HUA2/HUA2.sorted.bam
-HUA4	Huahine	/data/zool-zost/Novogene/Huahine/HUA4/HUA4.sorted.bam
-HUA6	Huahine	/data/zool-zost/Novogene/Huahine/HUA6/HUA6.sorted.bam
-HUA7	Huahine	/data/zool-zost/Novogene/Huahine/HUA7/HUA7.sorted.bam
-HUA8	Huahine	/data/zool-zost/Novogene/Huahine/HUA8/HUA8.sorted.bam
-L519	Lifou	/data/zool-zost/Novogene/Lifou/L519/L519.sorted.bam
-L536	Lifou	/data/zool-zost/Novogene/Lifou/L536/L536.sorted.bam
-L537	Lifou	/data/zool-zost/Novogene/Lifou/L537/L537.sorted.bam
-L538	Lifou	/data/zool-zost/Novogene/Lifou/L538/L538.sorted.bam
-L539	Lifou	/data/zool-zost/Novogene/Lifou/L539/L539.sorted.bam
-L541	Lifou	/data/zool-zost/Novogene/Lifou/L541/L541.sorted.bam
-L549	Lifou	/data/zool-zost/Novogene/Lifou/L549/L549.sorted.bam
-L550	Lifou	/data/zool-zost/Novogene/Lifou/L550/L550.sorted.bam
-L591	Lifou	/data/zool-zost/Novogene/Lifou/L591/L591.sorted.bam
-L593	Lifou	/data/zool-zost/Novogene/Lifou/L593/L593.sorted.bam
-L594	Lifou	/data/zool-zost/Novogene/Lifou/L594/L594.sorted.bam
-L595	Lifou	/data/zool-zost/Novogene/Lifou/L595/L595.sorted.bam
-L596	Lifou	/data/zool-zost/Novogene/Lifou/L596/L596.sorted.bam
-L604	Lifou	/data/zool-zost/Novogene/Lifou/L604/L604.sorted.bam
-L618	Lifou	/data/zool-zost/Novogene/Lifou/L618/L618.sorted.bam
-L619	Lifou	/data/zool-zost/Novogene/Lifou/L619/L619.sorted.bam
-L630	Lifou	/data/zool-zost/Novogene/Lifou/L630/L630.sorted.bam
-L640	Lifou	/data/zool-zost/Novogene/Lifou/L640/L640.sorted.bam
-L656	Lifou	/data/zool-zost/Novogene/Lifou/L656/L656.sorted.bam
-LH105	LordHowe	/data/zool-zost/Novogene/LordHoweIsland/LH105/LH105.sorted.bam
-LH106	LordHowe	/data/zool-zost/Novogene/LordHoweIsland/LH106/LH106.sorted.bam
-LH113	LordHowe	/data/zool-zost/Novogene/LordHoweIsland/LH113/LH113.sorted.bam
-LH115	LordHowe	/data/zool-zost/Novogene/LordHoweIsland/LH115/LH115.sorted.bam
-LH116	LordHowe	/data/zool-zost/Novogene/LordHoweIsland/LH116/LH116.sorted.bam
-LH128	LordHowe	/data/zool-zost/Novogene/LordHoweIsland/LH128/LH128.sorted.bam
-LH130	LordHowe	/data/zool-zost/Novogene/LordHoweIsland/LH130/LH130.sorted.bam
-LH132	LordHowe	/data/zool-zost/Novogene/LordHoweIsland/LH132/LH132.sorted.bam
-LH136	LordHowe	/data/zool-zost/Novogene/LordHoweIsland/LH136/LH136.sorted.bam
-ABP175	Malekula	/data/zool-zost/Novogene/Malekula/ABP175/ABP175.sorted.bam
-ABP176	Malekula	/data/zool-zost/Novogene/Malekula/ABP176/ABP176.sorted.bam
-ABP177	Malekula	/data/zool-zost/Novogene/Malekula/ABP177/ABP177.sorted.bam
-ABP180	Malekula	/data/zool-zost/Novogene/Malekula/ABP180/ABP180.sorted.bam
-ABP182	Malekula	/data/zool-zost/Novogene/Malekula/ABP182/ABP182.sorted.bam
-ABP186	Malekula	/data/zool-zost/Novogene/Malekula/ABP186/ABP186.sorted.bam
-ABP207	Malekula	/data/zool-zost/Novogene/Malekula/ABP207/ABP207.sorted.bam
-ABP209	Malekula	/data/zool-zost/Novogene/Malekula/ABP209/ABP209.sorted.bam
-ABP210	Malekula	/data/zool-zost/Novogene/Malekula/ABP210/ABP210.sorted.bam
-ABP213	Malekula	/data/zool-zost/Novogene/Malekula/ABP213/ABP213.sorted.bam
-MAL15	Malekula	/data/zool-zost/Novogene/Malekula/MAL15/MAL15.sorted.bam
-MAL21	Malekula	/data/zool-zost/Novogene/Malekula/MAL21/MAL21.sorted.bam
-M001	Mare	/data/zool-zost/Novogene/Mare/M001/M001.sorted.bam
-M027	Mare	/data/zool-zost/Novogene/Mare/M027/M027.sorted.bam
-M028	Mare	/data/zool-zost/Novogene/Mare/M028/M028.sorted.bam
-M029	Mare	/data/zool-zost/Novogene/Mare/M029/M029.sorted.bam
-M030	Mare	/data/zool-zost/Novogene/Mare/M030/M030.sorted.bam
-M031	Mare	/data/zool-zost/Novogene/Mare/M031/M031.sorted.bam
-M062	Mare	/data/zool-zost/Novogene/Mare/M062/M062.sorted.bam
-M063	Mare	/data/zool-zost/Novogene/Mare/M063/M063.sorted.bam
-M068	Mare	/data/zool-zost/Novogene/Mare/M068/M068.sorted.bam
-M069	Mare	/data/zool-zost/Novogene/Mare/M069/M069.sorted.bam
-M071	Mare	/data/zool-zost/Novogene/Mare/M071/M071.sorted.bam
-M075	Mare	/data/zool-zost/Novogene/Mare/M075/M075.sorted.bam
-M076	Mare	/data/zool-zost/Novogene/Mare/M076/M076.sorted.bam
-M077	Mare	/data/zool-zost/Novogene/Mare/M077/M077.sorted.bam
-M085	Mare	/data/zool-zost/Novogene/Mare/M085/M085.sorted.bam
-M089	Mare	/data/zool-zost/Novogene/Mare/M089/M089.sorted.bam
-MAU12	Maupiti	/data/zool-zost/Novogene/Maupiti/MAU12/MAU12.sorted.bam
-MAU15	Maupiti	/data/zool-zost/Novogene/Maupiti/MAU15/MAU15.sorted.bam
-MAU22	Maupiti	/data/zool-zost/Novogene/Maupiti/MAU22/MAU22.sorted.bam
-MAU26	Maupiti	/data/zool-zost/Novogene/Maupiti/MAU26/MAU26.sorted.bam
-MAU30	Maupiti	/data/zool-zost/Novogene/Maupiti/MAU30/MAU30.sorted.bam
-MOO25	Moorea	/data/zool-zost/Novogene/Moorea/MOO25/MOO25.sorted.bam
-MOO46	Moorea	/data/zool-zost/Novogene/Moorea/MOO46/MOO46.sorted.bam
-MOO53	Moorea	/data/zool-zost/Novogene/Moorea/MOO53/MOO53.sorted.bam
-MOO56	Moorea	/data/zool-zost/Novogene/Moorea/MOO56/MOO56.sorted.bam
-MOO7	Moorea	/data/zool-zost/Novogene/Moorea/MOO7/MOO7.sorted.bam
-15-179	Zbor	/data/zool-zost/Novogene/Outgroup/full_15-179.sort.bam
+CI10	ChathamIsland	/data/zool-zost/Novogene/ChathamIsland/CI10/CI10.sorted.bam	
+CI11	ChathamIsland	/data/zool-zost/Novogene/ChathamIsland/CI11/CI11.sorted.bam	
+CI12	ChathamIsland	/data/zool-zost/Novogene/ChathamIsland/CI12/CI12.sorted.bam	
+CI13	ChathamIsland	/data/zool-zost/Novogene/ChathamIsland/CI13/CI13.sorted.bam	
+CI14	ChathamIsland	/data/zool-zost/Novogene/ChathamIsland/CI14/CI14.sorted.bam	
+CI16	ChathamIsland	/data/zool-zost/Novogene/ChathamIsland/CI16/CI16.sorted.bam	
+CI17	ChathamIsland	/data/zool-zost/Novogene/ChathamIsland/CI17/CI17.sorted.bam	
+CI18	ChathamIsland	/data/zool-zost/Novogene/ChathamIsland/CI18/CI18.sorted.bam	
+CI19	ChathamIsland	/data/zool-zost/Novogene/ChathamIsland/CI19/CI19.sorted.bam	
+CI1	ChathamIsland	/data/zool-zost/Novogene/ChathamIsland/CI1/CI1.sorted.bam	
+CI20	ChathamIsland	/data/zool-zost/Novogene/ChathamIsland/CI20/CI20.sorted.bam	
+CI21	ChathamIsland	/data/zool-zost/Novogene/ChathamIsland/CI21/CI21.sorted.bam	
+CI2	ChathamIsland	/data/zool-zost/Novogene/ChathamIsland/CI2/CI2.sorted.bam	
+CI5	ChathamIsland	/data/zool-zost/Novogene/ChathamIsland/CI5/CI5.sorted.bam	
+CI7	ChathamIsland	/data/zool-zost/Novogene/ChathamIsland/CI7/CI7.sorted.bam	
+CI9	ChathamIsland	/data/zool-zost/Novogene/ChathamIsland/CI9/CI9.sorted.bam	
+ABP151	Efate	/data/zool-zost/Novogene/Efate/ABP151/ABP151.sorted.bam	
+ABP152	Efate	/data/zool-zost/Novogene/Efate/ABP152/ABP152.sorted.bam	
+ABP154	Efate	/data/zool-zost/Novogene/Efate/ABP154/ABP154.sorted.bam	
+ABP155	Efate	/data/zool-zost/Novogene/Efate/ABP155/ABP155.sorted.bam	
+ABP156	Efate	/data/zool-zost/Novogene/Efate/ABP156/ABP156.sorted.bam	
+ABP157	Efate	/data/zool-zost/Novogene/Efate/ABP157/ABP157.sorted.bam	
+ABP158	Efate	/data/zool-zost/Novogene/Efate/ABP158/ABP158.sorted.bam	
+ABP159	Efate	/data/zool-zost/Novogene/Efate/ABP159/ABP159.sorted.bam	
+ABP160	Efate	/data/zool-zost/Novogene/Efate/ABP160/ABP160.sorted.bam	
+ABP162	Efate	/data/zool-zost/Novogene/Efate/ABP162/ABP162.sorted.bam	
+ABP167	Efate	/data/zool-zost/Novogene/Efate/ABP167/ABP167.sorted.bam	
+ABP169	Efate	/data/zool-zost/Novogene/Efate/ABP169/ABP169.sorted.bam	
+ABP171	Efate	/data/zool-zost/Novogene/Efate/ABP171/ABP171.sorted.bam	
+EF28	Efate	/data/zool-zost/Novogene/Efate/EF28/EF28.sorted.bam	
+EF31	Efate	/data/zool-zost/Novogene/Efate/EF31/EF31.sorted.bam	
+EF37	Efate	/data/zool-zost/Novogene/Efate/EF37/EF37.sorted.bam	
+EF38	Efate	/data/zool-zost/Novogene/Efate/EF38/EF38.sorted.bam	
+EF42	Efate	/data/zool-zost/Novogene/Efate/EF42/EF42.sorted.bam	
+EF43	Efate	/data/zool-zost/Novogene/Efate/EF43/EF43.sorted.bam	
+EF44	Efate	/data/zool-zost/Novogene/Efate/EF44/EF44.sorted.bam	
+SAN11	EspirutuSanto	/data/zool-zost/Novogene/EspirutuSanto/SAN11/SAN11.sorted.bam	
+SAN12	EspirutuSanto	/data/zool-zost/Novogene/EspirutuSanto/SAN12/SAN12.sorted.bam	
+SAN16	EspirutuSanto	/data/zool-zost/Novogene/EspirutuSanto/SAN16/SAN16.sorted.bam	
+SAN17	EspirutuSanto	/data/zool-zost/Novogene/EspirutuSanto/SAN17/SAN17.sorted.bam	
+SAN18	EspirutuSanto	/data/zool-zost/Novogene/EspirutuSanto/SAN18/SAN18.sorted.bam	
+SAN2	EspirutuSanto	/data/zool-zost/Novogene/EspirutuSanto/SAN2/SAN2.sorted.bam	
+SAN42	EspirutuSanto	/data/zool-zost/Novogene/EspirutuSanto/SAN42/SAN42.sorted.bam	
+SAN47	EspirutuSanto	/data/zool-zost/Novogene/EspirutuSanto/SAN47/SAN47.sorted.bam	
+SAN49	EspirutuSanto	/data/zool-zost/Novogene/EspirutuSanto/SAN49/SAN49.sorted.bam	
+SAN52	EspirutuSanto	/data/zool-zost/Novogene/EspirutuSanto/SAN52/SAN52.sorted.bam	
+SAN55	EspirutuSanto	/data/zool-zost/Novogene/EspirutuSanto/SAN55/SAN55.sorted.bam	
+SAN57	EspirutuSanto	/data/zool-zost/Novogene/EspirutuSanto/SAN57/SAN57.sorted.bam	
+SAN64	EspirutuSanto	/data/zool-zost/Novogene/EspirutuSanto/SAN64/SAN64.sorted.bam	
+SAN70	EspirutuSanto	/data/zool-zost/Novogene/EspirutuSanto/SAN70/SAN70.sorted.bam	
+SAN74	EspirutuSanto	/data/zool-zost/Novogene/EspirutuSanto/SAN74/SAN74.sorted.bam	
+SAN76	EspirutuSanto	/data/zool-zost/Novogene/EspirutuSanto/SAN76/SAN76.sorted.bam	
+SAN7	EspirutuSanto	/data/zool-zost/Novogene/EspirutuSanto/SAN7/SAN7.sorted.bam	
+SAN85	EspirutuSanto	/data/zool-zost/Novogene/EspirutuSanto/SAN85/SAN85.sorted.bam	
+SAN88	EspirutuSanto	/data/zool-zost/Novogene/EspirutuSanto/SAN88/SAN88.sorted.bam	
+SAN9	EspirutuSanto	/data/zool-zost/Novogene/EspirutuSanto/SAN9/SAN9.sorted.bam	
+ABP251	Gaua	/data/zool-zost/Novogene/Gaua/ABP251/ABP251.sorted.bam	
+ABP257	Gaua	/data/zool-zost/Novogene/Gaua/ABP257/ABP257.sorted.bam	
+ABP261	Gaua	/data/zool-zost/Novogene/Gaua/ABP261/ABP261.sorted.bam	
+ABP263	Gaua	/data/zool-zost/Novogene/Gaua/ABP263/ABP263.sorted.bam	
+ABP264	Gaua	/data/zool-zost/Novogene/Gaua/ABP264/ABP264.sorted.bam	
+ABP265	Gaua	/data/zool-zost/Novogene/Gaua/ABP265/ABP265.sorted.bam	
+ABP266	Gaua	/data/zool-zost/Novogene/Gaua/ABP266/ABP266.sorted.bam	
+ABP267	Gaua	/data/zool-zost/Novogene/Gaua/ABP267/ABP267.sorted.bam	
+ABP281	Gaua	/data/zool-zost/Novogene/Gaua/ABP281/ABP281.sorted.bam	
+ABP283	Gaua	/data/zool-zost/Novogene/Gaua/ABP283/ABP283.sorted.bam	
+ABP284	Gaua	/data/zool-zost/Novogene/Gaua/ABP284/ABP284.sorted.bam	
+ABP295	Gaua	/data/zool-zost/Novogene/Gaua/ABP295/ABP295.sorted.bam	
+ABP299	Gaua	/data/zool-zost/Novogene/Gaua/ABP299/ABP299.sorted.bam	
+ABP300	Gaua	/data/zool-zost/Novogene/Gaua/ABP300/ABP300.sorted.bam	
+GT224	GrandTerre	/data/zool-zost/Novogene/GrandeTerre/GT224/GT224.sorted.bam	
+GT239	GrandTerre	/data/zool-zost/Novogene/GrandeTerre/GT239/GT239.sorted.bam	
+GTN018	GrandTerre	/data/zool-zost/Novogene/GrandeTerre/GTN018/GTN018.sorted.bam	
+GTN024	GrandTerre	/data/zool-zost/Novogene/GrandeTerre/GTN024/GTN024.sorted.bam	
+GTN028	GrandTerre	/data/zool-zost/Novogene/GrandeTerre/GTN028/GTN028.sorted.bam	
+GTN029	GrandTerre	/data/zool-zost/Novogene/GrandeTerre/GTN029/GTN029.sorted.bam	
+GTN043	GrandTerre	/data/zool-zost/Novogene/GrandeTerre/GTN043/GTN043.sorted.bam	
+GTN093	GrandTerre	/data/zool-zost/Novogene/GrandeTerre/GTN093/GTN093.sorted.bam	
+GTN094	GrandTerre	/data/zool-zost/Novogene/GrandeTerre/GTN094/GTN094.sorted.bam	
+GTN095	GrandTerre	/data/zool-zost/Novogene/GrandeTerre/GTN095/GTN095.sorted.bam	
+GTN101	GrandTerre	/data/zool-zost/Novogene/GrandeTerre/GTN101/GTN101.sorted.bam	
+GTN102	GrandTerre	/data/zool-zost/Novogene/GrandeTerre/GTN102/GTN102.sorted.bam	
+GTN104	GrandTerre	/data/zool-zost/Novogene/GrandeTerre/GTN104/GTN104.sorted.bam	
+GTN105	GrandTerre	/data/zool-zost/Novogene/GrandeTerre/GTN105/GTN105.sorted.bam	
+GTN106	GrandTerre	/data/zool-zost/Novogene/GrandeTerre/GTN106/GTN106.sorted.bam	
+GTN108	GrandTerre	/data/zool-zost/Novogene/GrandeTerre/GTN108/GTN108.sorted.bam	
+GTN109	GrandTerre	/data/zool-zost/Novogene/GrandeTerre/GTN109/GTN109.sorted.bam	
+GTN110	GrandTerre	/data/zool-zost/Novogene/GrandeTerre/GTN110/GTN110.sorted.bam	
+GTN211	GrandTerre	/data/zool-zost/Novogene/GrandeTerre/GTN211/GTN211.sorted.bam	
+S019	GrandTerre	/data/zool-zost/Novogene/GrandeTerre/S019/S019.sorted.bam	
+S020	GrandTerre	/data/zool-zost/Novogene/GrandeTerre/S020/S020.sorted.bam	
+S036	GrandTerre	/data/zool-zost/Novogene/GrandeTerre/S036/S036.sorted.bam	
+HUA2	Huahine	/data/zool-zost/Novogene/Huahine/HUA2/HUA2.sorted.bam	
+HUA4	Huahine	/data/zool-zost/Novogene/Huahine/HUA4/HUA4.sorted.bam	
+HUA6	Huahine	/data/zool-zost/Novogene/Huahine/HUA6/HUA6.sorted.bam	
+HUA7	Huahine	/data/zool-zost/Novogene/Huahine/HUA7/HUA7.sorted.bam	
+HUA8	Huahine	/data/zool-zost/Novogene/Huahine/HUA8/HUA8.sorted.bam	
+L519	Lifou	/data/zool-zost/Novogene/Lifou/L519/L519.sorted.bam	
+L536	Lifou	/data/zool-zost/Novogene/Lifou/L536/L536.sorted.bam	
+L537	Lifou	/data/zool-zost/Novogene/Lifou/L537/L537.sorted.bam	
+L538	Lifou	/data/zool-zost/Novogene/Lifou/L538/L538.sorted.bam	
+L539	Lifou	/data/zool-zost/Novogene/Lifou/L539/L539.sorted.bam	
+L541	Lifou	/data/zool-zost/Novogene/Lifou/L541/L541.sorted.bam	
+L549	Lifou	/data/zool-zost/Novogene/Lifou/L549/L549.sorted.bam	
+L550	Lifou	/data/zool-zost/Novogene/Lifou/L550/L550.sorted.bam	
+L591	Lifou	/data/zool-zost/Novogene/Lifou/L591/L591.sorted.bam	
+L593	Lifou	/data/zool-zost/Novogene/Lifou/L593/L593.sorted.bam	
+L594	Lifou	/data/zool-zost/Novogene/Lifou/L594/L594.sorted.bam	
+L595	Lifou	/data/zool-zost/Novogene/Lifou/L595/L595.sorted.bam	
+L596	Lifou	/data/zool-zost/Novogene/Lifou/L596/L596.sorted.bam	
+L604	Lifou	/data/zool-zost/Novogene/Lifou/L604/L604.sorted.bam	
+L618	Lifou	/data/zool-zost/Novogene/Lifou/L618/L618.sorted.bam	
+L619	Lifou	/data/zool-zost/Novogene/Lifou/L619/L619.sorted.bam	
+L630	Lifou	/data/zool-zost/Novogene/Lifou/L630/L630.sorted.bam	
+L640	Lifou	/data/zool-zost/Novogene/Lifou/L640/L640.sorted.bam	
+L656	Lifou	/data/zool-zost/Novogene/Lifou/L656/L656.sorted.bam	
+LH105	LordHowe	/data/zool-zost/Novogene/LordHoweIsland/LH105/LH105.sorted.bam	
+LH106	LordHowe	/data/zool-zost/Novogene/LordHoweIsland/LH106/LH106.sorted.bam	
+LH113	LordHowe	/data/zool-zost/Novogene/LordHoweIsland/LH113/LH113.sorted.bam	
+LH115	LordHowe	/data/zool-zost/Novogene/LordHoweIsland/LH115/LH115.sorted.bam	
+LH116	LordHowe	/data/zool-zost/Novogene/LordHoweIsland/LH116/LH116.sorted.bam	
+LH128	LordHowe	/data/zool-zost/Novogene/LordHoweIsland/LH128/LH128.sorted.bam	
+LH130	LordHowe	/data/zool-zost/Novogene/LordHoweIsland/LH130/LH130.sorted.bam	
+LH132	LordHowe	/data/zool-zost/Novogene/LordHoweIsland/LH132/LH132.sorted.bam	
+LH136	LordHowe	/data/zool-zost/Novogene/LordHoweIsland/LH136/LH136.sorted.bam	
+ABP175	Malekula	/data/zool-zost/Novogene/Malekula/ABP175/ABP175.sorted.bam	
+ABP176	Malekula	/data/zool-zost/Novogene/Malekula/ABP176/ABP176.sorted.bam	
+ABP177	Malekula	/data/zool-zost/Novogene/Malekula/ABP177/ABP177.sorted.bam	
+ABP180	Malekula	/data/zool-zost/Novogene/Malekula/ABP180/ABP180.sorted.bam	
+ABP182	Malekula	/data/zool-zost/Novogene/Malekula/ABP182/ABP182.sorted.bam	
+ABP186	Malekula	/data/zool-zost/Novogene/Malekula/ABP186/ABP186.sorted.bam	
+ABP207	Malekula	/data/zool-zost/Novogene/Malekula/ABP207/ABP207.sorted.bam	
+ABP209	Malekula	/data/zool-zost/Novogene/Malekula/ABP209/ABP209.sorted.bam	
+ABP210	Malekula	/data/zool-zost/Novogene/Malekula/ABP210/ABP210.sorted.bam	
+ABP213	Malekula	/data/zool-zost/Novogene/Malekula/ABP213/ABP213.sorted.bam	
+MAL15	Malekula	/data/zool-zost/Novogene/Malekula/MAL15/MAL15.sorted.bam	
+MAL21	Malekula	/data/zool-zost/Novogene/Malekula/MAL21/MAL21.sorted.bam	
+M001	Mare	/data/zool-zost/Novogene/Mare/M001/M001.sorted.bam	
+M027	Mare	/data/zool-zost/Novogene/Mare/M027/M027.sorted.bam	
+M028	Mare	/data/zool-zost/Novogene/Mare/M028/M028.sorted.bam	
+M029	Mare	/data/zool-zost/Novogene/Mare/M029/M029.sorted.bam	
+M030	Mare	/data/zool-zost/Novogene/Mare/M030/M030.sorted.bam	
+M031	Mare	/data/zool-zost/Novogene/Mare/M031/M031.sorted.bam	
+M062	Mare	/data/zool-zost/Novogene/Mare/M062/M062.sorted.bam	
+M063	Mare	/data/zool-zost/Novogene/Mare/M063/M063.sorted.bam	
+M068	Mare	/data/zool-zost/Novogene/Mare/M068/M068.sorted.bam	
+M069	Mare	/data/zool-zost/Novogene/Mare/M069/M069.sorted.bam	
+M071	Mare	/data/zool-zost/Novogene/Mare/M071/M071.sorted.bam	
+M075	Mare	/data/zool-zost/Novogene/Mare/M075/M075.sorted.bam	
+M076	Mare	/data/zool-zost/Novogene/Mare/M076/M076.sorted.bam	
+M077	Mare	/data/zool-zost/Novogene/Mare/M077/M077.sorted.bam	
+M085	Mare	/data/zool-zost/Novogene/Mare/M085/M085.sorted.bam	
+M089	Mare	/data/zool-zost/Novogene/Mare/M089/M089.sorted.bam	
+MAU12	Maupiti	/data/zool-zost/Novogene/Maupiti/MAU12/MAU12.sorted.bam	
+MAU15	Maupiti	/data/zool-zost/Novogene/Maupiti/MAU15/MAU15.sorted.bam	
+MAU22	Maupiti	/data/zool-zost/Novogene/Maupiti/MAU22/MAU22.sorted.bam	
+MAU26	Maupiti	/data/zool-zost/Novogene/Maupiti/MAU26/MAU26.sorted.bam	
+MAU30	Maupiti	/data/zool-zost/Novogene/Maupiti/MAU30/MAU30.sorted.bam	
+MOO25	Moorea	/data/zool-zost/Novogene/Moorea/MOO25/MOO25.sorted.bam	
+MOO46	Moorea	/data/zool-zost/Novogene/Moorea/MOO46/MOO46.sorted.bam	
+MOO53	Moorea	/data/zool-zost/Novogene/Moorea/MOO53/MOO53.sorted.bam	
+MOO56	Moorea	/data/zool-zost/Novogene/Moorea/MOO56/MOO56.sorted.bam	
+MOO7	Moorea	/data/zool-zost/Novogene/Moorea/MOO7/MOO7.sorted.bam	
+15-179	Zbor	/data/zool-zost/Novogene/Outgroup/full_15-179.sort.bam	
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+VAN46		/data/zool-zost/Novogene/2021/X204SC20062988-Z01-F005/raw	data/VAN46/VAN46.sorted.bam
