@@ -374,4 +374,4 @@ DP136	westernensis	Victoria	ramaciotti	/data/zool-zir/cont7348/Ramaciotti/bams_p
 DP140	westernensis	Victoria	ramaciotti	/data/zool-zir/cont7348/Ramaciotti/bams_pseudochroms/DP140.sorted.bam	
 DP143	westernensis	Victoria	ramaciotti	/data/zool-zir/cont7348/Ramaciotti/bams_pseudochroms/DP143.sorted.bam	
 DP147	westernensis	Victoria	ramaciotti	/data/zool-zir/cont7348/Ramaciotti/bams_pseudochroms/DP147.sorted.bam	
-15-179	Zborbonicus	Reunion	external	/data/zool-zost/cont7348/Norfolk_Hybridization/Zborbonicus_WGS/full_15-179.sort.bam
+15-179	Zborbonicus	Reunion	external	/data/zool-zost/Novogene/Outgroup/full_15-179.bam
