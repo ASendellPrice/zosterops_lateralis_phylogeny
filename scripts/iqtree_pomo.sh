@@ -36,7 +36,7 @@ do
     #Set sample name, population and bam path
     SAMPLE_NAME=$(head -n $LINE $INFO | tail -n 1 | cut -f 1)
     POPULATION=$(head -n $LINE $INFO | tail -n 1 |  cut -f 3)
-    SAMPLE_BAM=$(head -n $LINE $INFO | tail -n 1 | cut -f 35)
+    SAMPLE_BAM=$(head -n $LINE $INFO | tail -n 1 | cut -f 5)
 
     #Generate fasta file for sample
     angsd -i $SAMPLE_BAM \
@@ -69,4 +69,4 @@ cat temp >> thinned_$CHROM.cf
 rm temp
 
 #Run IQtree
-iqtree -s thinned_$CHROM.cf -m MF+P -o Zbor -safe
+iqtree -s thinned_$CHROM.cf -m MF+P -o Reunion -safe
