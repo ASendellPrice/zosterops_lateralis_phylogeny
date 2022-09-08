@@ -14,12 +14,6 @@
 12802	chlorocephalus	HeronIsland	ramaciotti	/data/zool-zir/cont7348/Ramaciotti/bams_pseudochroms/12802.sorted.bam
 12841	chlorocephalus	HeronIsland	ramaciotti	/data/zool-zir/cont7348/Ramaciotti/bams_pseudochroms/12841.sorted.bam
 12885	chlorocephalus	HeronIsland	ramaciotti	/data/zool-zir/cont7348/Ramaciotti/bams_pseudochroms/12885.sorted.bam
-11769	chlorocephalus	HeronIsland	agresearch	/data/zool-zost/cont7348/AgResearch/Plate2_Plate3_Merged_Bams/AgResearch.11769.bam
-11797	chlorocephalus	HeronIsland	agresearch	/data/zool-zost/cont7348/AgResearch/Plate2_Plate3_Merged_Bams/AgResearch.11797.bam
-11849	chlorocephalus	HeronIsland	agresearch	/data/zool-zost/cont7348/AgResearch/Plate2_Plate3_Merged_Bams/AgResearch.11849.bam
-12086	chlorocephalus	HeronIsland	agresearch	/data/zool-zost/cont7348/AgResearch/Plate2_Plate3_Merged_Bams/AgResearch.12086.bam
-12136	chlorocephalus	HeronIsland	agresearch	/data/zool-zost/cont7348/AgResearch/Plate2_Plate3_Merged_Bams/AgResearch.12136.bam
-12171	chlorocephalus	HeronIsland	agresearch	/data/zool-zost/cont7348/AgResearch/Plate2_Plate3_Merged_Bams/AgResearch.12171.bam
 SE525	chloronotus	WesternAustralia	ramaciotti	/data/zool-zir/cont7348/Ramaciotti/bams_pseudochroms/SE525.sorted.bam
 SE526	chloronotus	WesternAustralia	ramaciotti	/data/zool-zir/cont7348/Ramaciotti/bams_pseudochroms/SE526.sorted.bam
 SE527	chloronotus	WesternAustralia	ramaciotti	/data/zool-zir/cont7348/Ramaciotti/bams_pseudochroms/SE527.sorted.bam
