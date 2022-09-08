@@ -17,7 +17,7 @@ conda activate /data/zool-zost/BIN/IQTREE
 module load angsd/0.935-GCC-10.2.0
 
 #Set chromosome name using slurm array job id
-CHROM=$(head -n $SLURM_ARRAY_JOB_ID autosomes_minus4A.txt | tail -n 1)
+CHROM=$(head -n $SLURM_ARRAY_TASK_ID autosomes_minus4A.txt | tail -n 1)
 
 #Make directory for chromosome and move into it
 mkdir $CHROM
