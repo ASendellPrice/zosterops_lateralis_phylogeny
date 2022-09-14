@@ -16,7 +16,7 @@ conda activate /data/zool-zost/BIN/IQTREE
 #Load arc anaconda module
 module load angsd/0.935-GCC-10.2.0
 
-#Set chromosome name using slurm array job id
+#Set chromosome name using slurm array task id
 CHROM=$(head -n $SLURM_ARRAY_TASK_ID autosomes_minus4A.txt | tail -n 1)
 
 #Make directory for chromosome and move into it
@@ -25,7 +25,7 @@ cd $CHROM
 
 #Set path to info file specifying sample IDs, population assignment and bam paths
 #12569	chlorocephalus	HeronIsland	ramaciotti	/data/zool-zir/cont7348/Ramaciotti/bams_pseudochroms/12569.sorted.bam
-INFO=../resources/sample_info_noAgResearch.txt
+INFO=../resources/samples.txt
 
 #Count number of lines in file
 LINE_COUNT=$(cat $INFO | wc -l)
@@ -41,7 +41,7 @@ do
     #Generate fasta file for sample
     angsd -i $SAMPLE_BAM \
     -doCounts 1 -minQ 20 -minMapQ 20 -uniqueOnly \
-    -doFasta 4 -setMinDepth 3 \
+    -doFasta 4 -setMinDepth 3 -explode \
     -r $CHROM \
     -out ${CHROM}_${SAMPLE_NAME}
 
@@ -53,20 +53,24 @@ do
     rm ${CHROM}_${SAMPLE_NAME}*
 done
 
+#Compress fasta
+gzip $CHROM.fasta
+
 #Convert chrom fasta to IQTREE counts format
 export PATH="/home/cont7348/.local/bin/:$PATH"
-FastaToCounts.py $CHROM.fasta $CHROM.cf --iupac
+FastaToCounts.py --iupac $CHROM.fasta.gz $CHROM.cf 
 
 #Remove sites where a population has only missing data
 grep -v "0,0,0,0" $CHROM.cf > $CHROM.filtered.cf
 
 #Thin counts file taking 1% of sites at random
 tail -n +3 $CHROM.filtered.cf | perl -ne 'print if (rand() < .05)' | sort -nk2 | uniq > temp
-N=$(cat temp | wc -l)
-echo "COUNTSFILE NPOP 13 NSITES" $N > thinned_$CHROM.cf
+N_SITES=$(cat temp | wc -l)
+N_POPS=$(cat $INFO | cut -f 3 | sort | uniq | wc -l)
+echo "COUNTSFILE NPOP" $N_POPS "NSITES" $N_SITES > thinned_$CHROM.cf
 sed -n '2p' $CHROM.filtered.cf >> thinned_$CHROM.cf
 cat temp >> thinned_$CHROM.cf
 rm temp
 
 #Run IQtree
-iqtree -s thinned_$CHROM.cf -m MF+P -o Reunion -safe
+#iqtree -s thinned_$CHROM.cf -m MF+P -o Reunion -safe
