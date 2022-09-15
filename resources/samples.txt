@@ -309,7 +309,7 @@ RAI18	lateralis	Raiatea	novogene	/data/zool-zost/Novogene/Raiatea/RAI18/RAI18.so
 RAI20	lateralis	Raiatea	novogene	/data/zool-zost/Novogene/Raiatea/RAI20/RAI20.sorted.bam	
 RAI3	lateralis	Raiatea	novogene	/data/zool-zost/Novogene/Raiatea/RAI3/RAI3.sorted.bam	
 RAI7	lateralis	Raiatea	novogene	/data/zool-zost/Novogene/Raiatea/RAI7/RAI7.sorted.bam	
-15-179	Zborbonicus	Reunion	external	/data/zool-zost/Novogene/Outgroup/full_15-179.bam
+15179	Zborbonicus	Reunion	external	/data/zool-zost/Novogene/Outgroup/full_15-179.bam
 DP172	pinarochrous	SouthAustralia	ramaciotti	/data/zool-zir/cont7348/Ramaciotti/bams_pseudochroms/DP172.sorted.bam	
 DP186	pinarochrous	SouthAustralia	ramaciotti	/data/zool-zir/cont7348/Ramaciotti/bams_pseudochroms/DP186.sorted.bam	
 DP190	pinarochrous	SouthAustralia	ramaciotti	/data/zool-zir/cont7348/Ramaciotti/bams_pseudochroms/DP190.sorted.bam	
