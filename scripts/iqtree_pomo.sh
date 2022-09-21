@@ -1,6 +1,5 @@
 #!/bin/bash
-#SBATCH --clusters=all
-#SBATCH --ntasks-per-node=1
+#SBATCH --clusters=arc
 #SBATCH --array=18-18:1
 #SBATCH --time=4-00:00:00 
 #SBATCH --job-name=IQtree
@@ -88,6 +87,7 @@ tail -n +3 ${CHROM}.combined.allelecounts.txt | perl -ne 'print if (rand() < .00
 | sort -nk2 | uniq > ${CHROM}.randomsubset.combined.allelecounts.txt
 N_SITES=$(expr $(cat ${CHROM}.randomsubset.combined.allelecounts.txt | wc -l) - 1)
 N_POPS=$(ls temp/*.allelecounts.txt | wc -l)
+N_POPS=$(expr $N_POPS - 1)
 echo "COUNTSFILE NPOP" $N_POPS "NSITES" $N_SITES > ${CHROM}.randomsubset.cf
 sed -n '1p' ${CHROM}.combined.allelecounts.txt >> ${CHROM}.randomsubset.cf
 tail -n +2 ${CHROM}.randomsubset.combined.allelecounts.txt >> ${CHROM}.randomsubset.cf
