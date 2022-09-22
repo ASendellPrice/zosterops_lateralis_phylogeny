@@ -16,15 +16,18 @@
 #####
 
 #Set path to norgal
-NORGAL=/data/zool-zost/cont7348/zosterops_lateralis_phylogeny/norgal/norgal.py
+MEANGS=/data/zool-zost/cont7348/zosterops_lateralis_phylogeny/MEANGS/meangs.py
 
 #Concatinating fasta files
 #cat /data/zool-zost/Novogene/ChathamIsland/CI1/CI1_FDSW202476971-1r_HC5LKDSXY_L1_1.fq.gz \
 #/data/zool-zost/Novogene/ChathamIsland/CI1/CI1_FDSW202476971-1r_HCJNYDSXY_L4_1.fq.gz \
-#> CI1_1.fasta.gz
+#> CI1_1.fastq.gz
 #cat /data/zool-zost/Novogene/ChathamIsland/CI1/CI1_FDSW202476971-1r_HC5LKDSXY_L1_2.fq.gz \
 #/data/zool-zost/Novogene/ChathamIsland/CI1/CI1_FDSW202476971-1r_HCJNYDSXY_L4_2.fq.gz \
-#> CI1_2.fasta.gz
+#> CI1_2.fastq.gz
 
-python $NORGAL \
--i CI1_1.fasta.gz CI1_2.fasta.gz -o norgal_test --blast
+python $MEANGS \
+-1 CI1_1.fastq.gz \
+-2 CI1_2.fastq.gz \
+-o CI1_test --deepin
+
