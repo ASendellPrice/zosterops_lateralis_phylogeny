@@ -27,8 +27,8 @@ do
     FTP_PATH=$(cut -f 2 $INFO | head -n $LINE | tail -n 1)
 
     #Download reads from ENA
-    #wget ftp://ftp.sra.ebi.ac.uk/${FTP_PATH}_1.fastq.gz
-    #wget ftp://ftp.sra.ebi.ac.uk/${FTP_PATH}_2.fastq.gz
+    wget ftp://ftp.sra.ebi.ac.uk/${FTP_PATH}_1.fastq.gz
+    wget ftp://ftp.sra.ebi.ac.uk/${FTP_PATH}_2.fastq.gz
 
     #Filter read files
     $FASTP \
