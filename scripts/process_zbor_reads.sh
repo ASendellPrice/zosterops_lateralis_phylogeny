@@ -19,8 +19,8 @@ REF=/data/zool-zost/Ref_Genome/Ref_Genome_PseudoChroms/Zlat_2_Tgut_pseudochromos
 INFO=../resources/zbor_info.txt
 
 #For each line in the file do the following 
-#for $LINE in $(seq 1 $(cat $INFO | wc -l))
-for $LINE in $(seq 1 1)
+#for LINE in $(seq 1 $(cat $INFO | wc -l))
+for LINE in $(seq 1 1)
 do
     #Set sample name and FTP paths
     SAMPLE_ID=$(cut -f 1 $INFO | head -n $LINE | tail -n 1)
