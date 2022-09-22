@@ -1,6 +1,5 @@
 #!/bin/bash
 #SBATCH --clusters=htc
-#SBATCH --ntasks-per-node=1
 #SBATCH --time=1-00:00:00 
 #SBATCH --job-name=process_Zbor
 #SBATCH --partition=long
@@ -13,8 +12,8 @@ BWA=/data/zool-zost/BIN/bwa/bwa
 REF=/data/zool-zost/Ref_Genome/Ref_Genome_PseudoChroms/Zlat_2_Tgut_pseudochromosomes.shortChromNames.fasta.gz
 
 #Make directory and move into it
-mkdir Zbor
-cd Zbor
+#mkdir Zbor
+#cd Zbor
 
 #Set path to file specifying Z.bor IDs and ftp paths to raw read files
 INFO=../resources/zbor_info.txt
