@@ -21,6 +21,9 @@ mkdir mitogenomes
 mkdir mitogenomes/reads
 mkdir mitogenomes/fasta
 
+
+
+
 #For each of the novogene sequenced samples in "resources/novogene_samples.txt"
 #do the following:
 for SAMPLE in $(cat resources/novogene_samples.txt)
