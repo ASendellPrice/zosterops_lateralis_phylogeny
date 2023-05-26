@@ -1,7 +1,7 @@
 #!/bin/bash
 #!/bin/bash
 #SBATCH --clusters=htc
-#SBATCH --array=1-1:1
+#SBATCH --array=2-10:1
 #SBATCH --time=2-00:00:00 
 #SBATCH --job-name=norgal
 #SBATCH --partition=long
